@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Envyxking
-- 👀 I’m interested in ...ui and ux desgin
+- 👋 Hi, I’m @jithin Prakash
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...computer engineering
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ...jithincreation@gmail.com
